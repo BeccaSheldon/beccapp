@@ -5,7 +5,7 @@ gem 'haml'
 gem 'html2haml'
 gem 'pry'
 gem 'zurb-foundation'
-# gem 'devise'
+gem 'devise'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
