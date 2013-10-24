@@ -1,4 +1,5 @@
 Beccapp::Application.routes.draw do
+  get "users/index"
   resources :users
   root "users#index"
   # The priority is based upon order of creation: first created -> highest priority.
